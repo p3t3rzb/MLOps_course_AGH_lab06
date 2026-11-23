@@ -1,0 +1,5 @@
+.venv/
+.ipynb_checkpoints/
+__pycache__/
+finetuned_model/
+finetuned_model_homework/
